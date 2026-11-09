@@ -85,3 +85,6 @@
   to = "https://open.bigmodel.cn/api/paas/v4/:splat"
   status = 200
   force = true
+
+[functions]
+  timeout = 26
